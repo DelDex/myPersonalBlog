@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Start a Blog Using Obsidian, Hugo, and Vercel</title>
+      <link>//localhost:1313/posts/obsedian/posts/how-to-start-a-blog-using-obsidian-hugo-and-vercel/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/obsedian/posts/how-to-start-a-blog-using-obsidian-hugo-and-vercel/</guid>
+      <description>&lt;p&gt;Are you looking for a streamlined, cost-effective way to start your blog? Combining &lt;strong&gt;Obsidian&lt;/strong&gt; for content creation, &lt;strong&gt;Hugo&lt;/strong&gt; for static site generation, and &lt;strong&gt;Vercel&lt;/strong&gt; for hosting gives you a powerful stack to create and manage a professional-looking website. This guide walks you through the process step-by-step.&lt;/p&gt;
+&lt;p&gt;Why This Stack?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Obsidian&lt;/strong&gt;: A markdown-based note-taking tool with a clean, distraction-free interface perfect for writing and managing content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt;: A fast and flexible static site generator that turns markdown files into beautifully designed web pages.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vercel&lt;/strong&gt;: A free hosting platform with automated deployments and a global CDN for fast loading times.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-1-write-your-content-in-obsidian&#34;&gt;Step 1: Write Your Content in Obsidian&lt;/h2&gt;
+&lt;h3 id=&#34;set-up-obsidian-for-blogging&#34;&gt;Set Up Obsidian for Blogging&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Install Obsidian&lt;/strong&gt;: Download and install &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt; on your computer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create a Vault&lt;/strong&gt;: Set up a new vault for your blog content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Organize Your Files&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Create a folder for blog posts (e.g., &lt;code&gt;content/posts&lt;/code&gt;).&lt;/li&gt;
+&lt;li&gt;Use markdown files (&lt;code&gt;.md&lt;/code&gt;) for each blog post, naming them appropriately (e.g., &lt;code&gt;my-first-post.md&lt;/code&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;write-your-first-post&#34;&gt;Write Your First Post&lt;/h3&gt;
+&lt;p&gt;Start drafting in markdown:&lt;/p&gt;</description>
+      <content>&lt;p&gt;Are you looking for a streamlined, cost-effective way to start your blog? Combining &lt;strong&gt;Obsidian&lt;/strong&gt; for content creation, &lt;strong&gt;Hugo&lt;/strong&gt; for static site generation, and &lt;strong&gt;Vercel&lt;/strong&gt; for hosting gives you a powerful stack to create and manage a professional-looking website. This guide walks you through the process step-by-step.&lt;/p&gt;
+&lt;p&gt;Why This Stack?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Obsidian&lt;/strong&gt;: A markdown-based note-taking tool with a clean, distraction-free interface perfect for writing and managing content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt;: A fast and flexible static site generator that turns markdown files into beautifully designed web pages.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vercel&lt;/strong&gt;: A free hosting platform with automated deployments and a global CDN for fast loading times.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-1-write-your-content-in-obsidian&#34;&gt;Step 1: Write Your Content in Obsidian&lt;/h2&gt;
+&lt;h3 id=&#34;set-up-obsidian-for-blogging&#34;&gt;Set Up Obsidian for Blogging&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Install Obsidian&lt;/strong&gt;: Download and install &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt; on your computer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create a Vault&lt;/strong&gt;: Set up a new vault for your blog content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Organize Your Files&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Create a folder for blog posts (e.g., &lt;code&gt;content/posts&lt;/code&gt;).&lt;/li&gt;
+&lt;li&gt;Use markdown files (&lt;code&gt;.md&lt;/code&gt;) for each blog post, naming them appropriately (e.g., &lt;code&gt;my-first-post.md&lt;/code&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;write-your-first-post&#34;&gt;Write Your First Post&lt;/h3&gt;
+&lt;p&gt;Start drafting in markdown:&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;Copy code&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;--- title: &amp;quot;My First Blog Post&amp;quot; date: 2024-12-03 draft: false ---  Welcome to my blog! This is my first post. Stay tuned for more content!&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;---&lt;/code&gt; block is the &lt;strong&gt;front matter&lt;/strong&gt; required by Hugo to recognize metadata like the title and date.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-2-build-your-website-with-hugo&#34;&gt;Step 2: Build Your Website with Hugo&lt;/h2&gt;
+&lt;h3 id=&#34;install-hugo&#34;&gt;Install Hugo&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Download Hugo&lt;/strong&gt;: Install Hugo from Hugo’s website.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Create a New Site&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;bash&lt;/p&gt;
+&lt;p&gt;Copy code&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;hugo new site my-blog cd my-blog&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Choose a Theme&lt;/strong&gt;: Hugo offers many themes. Browse Hugo Themes and pick one you like. For example:&lt;/p&gt;
+&lt;p&gt;bash&lt;/p&gt;
+&lt;p&gt;Copy code&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git init git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke themes/ananke&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Update the Configuration&lt;/strong&gt;: Edit the &lt;code&gt;config.toml&lt;/code&gt; file to set your site’s title, theme, and other options:&lt;/p&gt;
+&lt;p&gt;toml&lt;/p&gt;
+&lt;p&gt;Copy code&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;baseURL = &amp;quot;https://your-blog.vercel.app/&amp;quot; languageCode = &amp;quot;en-us&amp;quot; title = &amp;quot;My Blog&amp;quot; theme = &amp;quot;ananke&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;add-your-content&#34;&gt;Add Your Content&lt;/h3&gt;
+&lt;p&gt;Copy your markdown files from Obsidian into the &lt;code&gt;content/posts&lt;/code&gt; directory of your Hugo site.&lt;/p&gt;
+&lt;h3 id=&#34;build-the-site&#34;&gt;Build the Site&lt;/h3&gt;
+&lt;p&gt;Generate the static files:&lt;/p&gt;
+&lt;p&gt;bash&lt;/p&gt;
+&lt;p&gt;Copy code&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;The output is saved in the &lt;code&gt;public/&lt;/code&gt; directory.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-3-deploy-your-site-on-vercel&#34;&gt;Step 3: Deploy Your Site on Vercel&lt;/h2&gt;
+&lt;h3 id=&#34;set-up-vercel&#34;&gt;Set Up Vercel&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sign Up for Vercel&lt;/strong&gt;: Create a free account at &lt;a href=&#34;https://vercel.com/&#34;&gt;vercel.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Install the Vercel CLI&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;bash&lt;/p&gt;
+&lt;p&gt;Copy code&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;npm install -g vercel&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Link Your Project&lt;/strong&gt;: Navigate to your Hugo site directory and deploy:&lt;/p&gt;
+&lt;p&gt;bash&lt;/p&gt;
+&lt;p&gt;Copy code&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;vercel&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Follow the prompts to configure the deployment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;configure-hugo-for-automatic-deployments&#34;&gt;Configure Hugo for Automatic Deployments&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Push your Hugo site to a Git repository (e.g., on GitHub):&lt;/p&gt;
+&lt;p&gt;bash&lt;/p&gt;
+&lt;p&gt;Copy code&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git add . git commit -m &amp;quot;Initial commit&amp;quot; git push origin main&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/pexels-singkham-178541-1108572.jpg&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

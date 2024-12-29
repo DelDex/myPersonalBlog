@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "2b80fced2eabf38c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a691b343d8261c3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "455c60d604d05326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Posts/How to Start a Blog Using Obsidian, Hugo, and Vercel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Start a Blog Using Obsidian, Hugo, and Vercel"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a53e01202f0c7d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbd69dd546af8bcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcd084396e16ecfc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d96a1f52f4e7bf1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a2ee68c696ac767c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9aceb25b75051bdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c5397c7dbd915ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62027925365c877a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Posts/My first blog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for My first blog"
+            }
+          },
+          {
+            "id": "fb86262b6be95cd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Posts/My first blog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from My first blog"
+            }
+          },
+          {
+            "id": "ffe12bd92777cea8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c9a6941939ec6db7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Posts/My first blog.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of My first blog"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "455c60d604d05326",
+  "lastOpenFiles": [
+    "Posts/images/pexels-singkham-178541-1108572.jpg",
+    "Posts/images",
+    "images/Pasted image 20241203215034.png",
+    "images",
+    "images/Pasted image 20241203211754.png",
+    "Posts/How to Start a Blog Using Obsidian, Hugo, and Vercel.md",
+    "attachments/Pasted image 20241203211754.png 1.md",
+    "attachments/Pasted image 20241203211754.png.md",
+    "attachments",
+    "Posts/script.py",
+    "Posts/attachments",
+    "Pasted image 20241203211645.png",
+    "Posts",
+    "Welcome.md"
+  ]
+}
